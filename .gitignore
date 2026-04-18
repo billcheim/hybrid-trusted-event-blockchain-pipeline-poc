@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+events.db
+geth-password.txt
+
+geth-data/
+geth-private-data/
+geth-chain/
+
+geth-node1-data/
+geth-node2-data/
+
+*.log
+.DS_Store
