@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Hybrid Trusted Event Pipeline PoC"
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Cheimarios"
+    given-names: "Bill"
+repository-code: "https://github.com/billcheim/hybrid-trusted-event-blockchain-pipeline-poc"
+license: "MIT"
+version: "1.0.0"
+date-released: 2026-04-18
+abstract: >
+  Proof-of-concept edge pipeline for trusted handling of heterogeneous LPWAN-like
+  and LTE-like events, using MQTT ingestion, SQLite local persistence, and
+  anchoring into a private multi-signer Clique PoA blockchain.
+keywords:
+  - blockchain
+  - clique
+  - proof-of-authority
+  - MQTT
+  - LTE
+  - LoRa
+  - Raspberry Pi
+  - edge computing
+  - event integrity
