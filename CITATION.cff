@@ -3,8 +3,8 @@ title: "Hybrid Trusted Event Pipeline PoC"
 message: "If you use this software, please cite it using the metadata from this file."
 type: software
 authors:
-  - family-names: "Cheimarios"
-    given-names: "Bill"
+  - family-names: "Cheimaras"
+    given-names: "Vasileios"
 repository-code: "https://github.com/billcheim/hybrid-trusted-event-blockchain-pipeline-poc"
 license: "MIT"
 version: "1.0.0"
